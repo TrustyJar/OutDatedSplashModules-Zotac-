@@ -19,4 +19,4 @@ In console:
 2. Proxies
 3. Discord Access
 
-![]([https://media.discordapp.net/attachments/967807348200570932/994211671314812938/Capture.PNG](https://media.discordapp.net/attachments/935556240606625792/995538324091568338/Screenshot_2021-08-24_210411.png))
+![]([https://media.discordapp.net/attachments/935556240606625792/995538324091568338/Screenshot_2021-08-24_210411.png)
